@@ -1,0 +1,19 @@
+{
+    "name": "esclient/es",
+    "authors": [
+        {
+            "name": "lion",
+            "email": "634842632@qq.com"
+        }
+    ],
+    "require": {
+        "elasticsearch/elasticsearch": "~5.0",
+        "catfan/Medoo": "^1.4"
+     },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}

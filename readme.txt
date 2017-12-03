@@ -1,0 +1,3 @@
+move.php 作用是把线上数据插入到本地数据库,修改MySqlDb.php中的配置为线上数据库配置
+build.php build脚本，作用把商品数据用定时任务build到es索引中
+demo.php 搜索demo页面
